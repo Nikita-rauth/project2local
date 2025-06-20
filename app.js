@@ -3,3 +3,4 @@ console.log("radhe radhe");
 console.log("Jai maa santoshi");
 let p=document.querySelector("p");
 let btn=document.querySelector("button");
+let btn2=document.querySelector("button");
